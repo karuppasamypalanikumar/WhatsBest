@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    background-color: brown;
+    color: white;
+    height: 100px;
+    width: 100%;
+    position: relative;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    list-style-type: none;
+}
